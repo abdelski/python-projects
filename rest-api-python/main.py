@@ -2,8 +2,8 @@ import requests
 import pprint
 import pandas as pd
 
-api_key = "61a867ed341f789c69219866a4e81d35"
-api_key_v4 = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2MWE4NjdlZDM0MWY3ODljNjkyMTk4NjZhNGU4MWQzNSIsInN1YiI6IjYxYWNkNzRkMDdhODA4MDA1ZmMxZTEyZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.fGKE4_Apw0Xf9tTK8K8d1hwARAENll4JPe-2NmzP7L4"
+api_key = ""
+api_key_v4 = ""
 """
 GET ->GRAB DATA
 POST -> ADD/UPDATE DATA
