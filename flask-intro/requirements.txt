@@ -1,0 +1,6 @@
+gunicorn
+uvicorn
+fastapi
+requests
+requests_html
+pandas
